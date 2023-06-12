@@ -7,8 +7,6 @@ Java-based CBSE "marks to percentage calculator" with it's code as simple as fal
 ![Screenshot 2023-06-12 224504](https://github.com/Akhil373/Result-Calculator/assets/133588800/6c803682-f732-4363-a053-db0003dbeb4c)
 
 
-(...totally not my godawful marks.)
-
 # Installation: 🔌
 
 1. Download the repository files (project) from the download section.
